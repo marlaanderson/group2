@@ -10,10 +10,17 @@ def read():
 			key = "".join(sorted(line.lower().strip()))
 		#print("{} {:>25}" .format(key, line.lower().strip()), file=outfile)	#stores results in anagramtest file
 			table[key].append(line.lower().strip())
-	for keys,values in table.items():
-		print(keys, file=outfile)
-		print(values, file=outfile)
-		print("", file=outfile)
+			
+	keylist = list(table.keys())
+	keylist.sort(key=len)
+	for key in keylist:
+		print(key, table[key], file=outfile)
+			
+	#for keys,values in table.items():
+		#print(keys, file=outfile)
+		#print(values, file=outfile)
+		#print("", file=outfile)
+	
 	print(len(table))
 			
 	infile.close()
