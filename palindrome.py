@@ -1,16 +1,11 @@
-#returns the reverse of a string
-def reverse(s):
-    return s[::-1]
- 
-def palindrome(s):
-    #calls reverse function
-    srev = reverse(s)
- 
-    #checks if strings are equal to each other
-    if (s == srev):
-        print ("True")
-    else: 
-    	print ("False")
-palindrome("racecar")
- 
-
+def isograms():
+    infile = open("/Users/Marla/Desktop/CAAP-CS/final_project/group2/eng_dict.txt", "r")
+    count = 0
+    for line in infile:
+        line = line.lower().strip()
+        if len(line) > 8:
+            if len(set(line)) == len(line):
+                count+=1
+                print("%s"%(line))
+    print(count)
+isograms()
