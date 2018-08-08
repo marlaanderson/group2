@@ -38,7 +38,7 @@ def isograms(keylist, outfile2):
             line = line.lower().strip()
             if len(set(line)) == len(line):
                 count+=1
-		print("{:<25}| {}".format(line, ", ".join(table[line])), file=outfile2)
+                print("{:<25}| {}".format(line, ", ".join(table[line])), file=outfile2)
     print("There are %s isograms!"%(line))
     print(count)
 iso_ano_merge()
