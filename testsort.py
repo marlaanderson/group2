@@ -13,7 +13,7 @@ def read():
             print(keys, file=outfile)
             print(values, file=outfile)
             print("", file=outfile)
-        print(table.sort(key = len))
+        print(len(table))
 			
     infile.close()
     outfile.close()	
