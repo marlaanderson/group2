@@ -3,7 +3,7 @@
 from collections import defaultdict				#Imports defaultdict: It overrides one method and adds one writable instance variable. The rest of its properties are the same as dict.
 
 table = defaultdict(list)						#Creates a defaultdict with lists as values.
-		
+
 def read():
 	infile = open("eng_dict.txt", "r")			#Open dictionary to analyze.
 	outfile = open("anagramtest.txt", "w")		#Open new file to write outcome to.
@@ -23,12 +23,13 @@ def anagram_permute(infile, outfile, table):
 	keylist = list(table.keys())													#Creates a list of the keys.
 	keylist.sort(key=len)															#Sorts key list by key length.
 	keylist = sorted(keylist, key=lambda x: len(table[x]))							#Sorts key list by length of value list (amount of anagrams).
+
 	count = 0																		#Initializes count variable
 	for key in keylist:																#Iterates throught the entire list.
 		if len(table[key]) > 1:														#Will only print if there is atleast an anagram pair.
 			count+=1																#Keeps track of how many keys there are are in total which have atleast an anagram pair.
 			print("{:<25}| {}".format(key, ", ".join(table[key])), file=outfile)	#Prints out key and the list of anagrams associated with that key.
-	
+
 	print("\nAMOUNT OF ALPHABETIZED WORDS:", count, file=outfile)					#Prints Final tally of anagram families.
-	
+
 read()
