@@ -1,11 +1,8 @@
-def isograms():
-    infile = open("/Users/Marla/Desktop/CAAP-CS/final_project/group2/eng_dict.txt", "r")
-    count = 0
+def palindromes():
+    infile = open("eng_dict.txt", "r")
     for line in infile:
-        line = line.lower().strip()
-        if len(line) > 8:
-            if len(set(line)) == len(line):
-                count+=1
-                print("%s"%(line))
-    print(count)
-isograms()
+            line=line.strip()    
+            #if len(line) >7: #will not work because there are no palindroms greater than 7 characters
+            if line==line[::-1]:  # reverses and tests in one step
+                print(line)
+palindromes()
