@@ -30,7 +30,7 @@ def anagram_permute(infile, outfile, table):
 			count+=1																#Keeps track of how many keys there are are in total which have atleast an anagram pair.
 			print("{:<25}| {}".format(key, ", ".join(table[key])), file=outfile)	#Prints out key and the list of anagrams associated with that key.
 	
-	print("\nAMOUNT OF ALPHABETIZED WORDS:", count, file=outfile)					#Prints Final tally of anagram families.
+	print("\nThere are this many anagrams:", count, file=outfile)					#Prints Final tally of anagram families.
 def isograms(): 
     infile = open("eng_dict.txt", "r")
     count = 0
