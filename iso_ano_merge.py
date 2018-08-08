@@ -32,7 +32,7 @@ def anagram_permute(infile, outfile, table):
 	
 	print("\nThere are this many anagrams:", count, file=outfile)					#Prints Final tally of anagram families.
 def isograms(): 
-    infile = open("eng_dict.txt", "r")
+    infile = open("keylist", "r")
     count = 0
     for line in infile:
         line = line.lower().strip()
