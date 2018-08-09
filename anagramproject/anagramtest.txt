@@ -5997,4 +5997,4 @@ deeenrrsuv               | underserve, underverse, undeserver, unreserved, unrev
 aceiimnorst              | anisometric, creationism, miscreation, ramisection, reactionism
 aceilnor                 | acrolein, arecolin, caroline, colinear, cornelia, creolian, lonicera
 
-AMOUNT OF ALPHABETIZED WORDS: 5998
+AMOUNT OF ANAGRAM FAMILIES: 5998
