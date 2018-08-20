@@ -1,0 +1,998 @@
+abilnotu                 | ablution, abutilon
+abeiortv                 | abortive, bravoite
+abeilrst                 | abristle, libertas
+acehirsu                 | acheirus, eucharis
+acimnotu                 | aconitum, acontium
+acinostu                 | acontius, anticous
+achilort                 | acrolith, trochila
+acimorst                 | acrotism, rotacism
+aceglnoy                 | acylogen, cynogale
+acdeilny                 | adenylic, lycaenid
+adejrstu                 | adjuster, readjust
+adeilmnu                 | adlumine, unmailed
+adinostu                 | adustion, sudation
+acginost                 | agnostic, coasting
+acegirst                 | agrestic, ergastic
+abelnorz                 | albronze, blazoner
+acehilnp                 | alphenic, cephalin
+aehlnops                 | alphonse, phenosal
+aghilrty                 | alrighty, arightly
+aceilrst                 | altrices, selictar
+aegilrtu                 | alurgite, ligature
+abeimrtv                 | ambivert, verbatim
+aceimnst                 | amnestic, semantic
+achimopr                 | amorphic, amphoric
+aeimortz                 | amortize, atomizer
+acenorst                 | ancestor, entosarc
+acdehnor                 | anchored, rondache
+adeglmno                 | angeldom, lodgeman
+adiknory                 | ankyroid, dikaryon
+aehnopty                 | anophyte, typhoean
+abeilntu                 | antiblue, nubilate
+aeilnopt                 | antilope, antipole
+aeinqrtu                 | antiquer, quartine
+adeioprt                 | apteroid, proteida
+abcelrsu                 | arbuscle, buscarle
+acehoprt                 | archpoet, protheca
+aceginrt                 | argentic, citrange
+aeglnort                 | argentol, gerontal
+aegmnrtu                 | argentum, argument
+acdeilrt                 | articled, lacertid
+aegilprs                 | aspergil, splairge
+aceimprs                 | aspermic, sapremic
+adeiorst                 | asteroid, troiades
+adeinost                 | astonied, sedation
+aeflorst                 | astrofel, forestal
+achinost                 | atchison, chitosan
+aeilrstu                 | auletris, lisuarte
+acdeilru                 | auricled, radicule
+aceimstu                 | autecism, musicate
+aciopstu                 | autopsic, captious
+acehoruv                 | avoucher, reavouch
+abcehlor                 | bachelor, crabhole
+abcefikr                 | backfire, fireback
+abckopst                 | backstop, stopback
+abceinrt                 | bacterin, centibar
+abceiltu                 | baculite, cubitale
+abcdilou                 | baculoid, cuboidal
+abdegino                 | badigeon, gabioned
+abceilty                 | baetylic, biacetyl
+abeilmnt                 | bailment, libament
+abegilnr                 | balinger, ringable
+abelrstu                 | baluster, rustable
+abehinrs                 | banisher, rebanish
+abijnost                 | banjoist, bostanji
+abeinrty                 | barytine, bryanite
+abekmorw                 | beamwork, bowmaker
+abdeilms                 | bedismal, semibald
+beghinrt                 | berthing, brighten
+abdehosw                 | beshadow, bodewash
+abeirsty                 | bestiary, sybarite
+abelostw                 | bestowal, stowable
+abgimosu                 | bigamous, subimago
+abgilnst                 | blasting, stabling
+abegilnt                 | bleating, tangible
+beghilrt                 | blighter, therblig
+abgilnot                 | bloating, obligant
+abginost                 | boasting, bostangi
+abehinot                 | boethian, nebaioth
+abegmnoy                 | bogeyman, moneybag
+abdehlot                 | bolthead, theobald
+befhinos                 | bonefish, fishbone
+abinorty                 | bonitary, trainboy
+bgilnory                 | boringly, goblinry
+abgilnrw                 | brawling, warbling
+abdenrtu                 | breadnut, turbaned
+abekortu                 | breakout, outbreak
+behlrstu                 | brushlet, shrublet
+aceilprs                 | calipers, spiracle
+acilorst                 | calorist, coralist
+aceilorz                 | calorize, coalizer
+acehilms                 | camelish, schalmei
+acehimpr                 | camphire, hemicarp
+aceinost                 | canoeist, cotesian
+acenopst                 | capstone, opencast
+acelprsu                 | capsuler, specular
+acenorsu                 | carneous, nacreous
+achimrst                 | carsmith, chartism
+acimnost                 | catonism, monastic
+ceinosty                 | cenosity, cytosine
+acenrtuy                 | centaury, cyanuret
+cdeinort                 | centroid, doctrine
+aceimrtu                 | ceratium, muricate
+acehilnt                 | chainlet, ethnical
+acehiprt                 | chapiter, phreatic
+acghinrt                 | charting, ratching
+abcehlsu                 | chasuble, subchela
+acehmost                 | chatsome, moschate
+aceghint                 | cheating, teaching
+cehilsty                 | chestily, lecythis
+cehiorst                 | chirotes, theorics
+acehlort                 | chlorate, trochlea
+cehilort                 | chlorite, clothier
+cehinrst                 | christen, snitcher
+cehimort                 | chromite, trichome
+aceinstv                 | cistvaen, vesicant
+ceiorstu                 | citreous, urticose
+acgilnps                 | clasping, scalping
+acelnotu                 | cleanout, outlance
+cegiklnr                 | clerking, reckling
+ceilmops                 | clipsome, polemics
+ceilorst                 | cloister, coistrel
+aceilmny                 | clymenia, mycelian
+aceforst                 | cofaster, forecast
+aceimnot                 | coinmate, maconite
+ciklnost                 | coltskin, linstock
+cdelmnou                 | columned, uncledom
+cegilmno                 | comeling, comingle
+ceilmopr                 | compiler, complier
+ceimoprs                 | comprise, perosmic
+acimnoru                 | conarium, coumarin
+aceinotv                 | conative, invocate
+aceflnot                 | conflate, falconet
+ceinoprs                 | conspire, incorpse
+cemnorsu                 | consumer, mucrones
+ceinortv                 | contrive, invector
+aceilopt                 | copalite, poetical
+acenoprt                 | coparent, portance
+cinoprsu                 | coprinus, poncirus
+aceloptu                 | copulate, outplace
+ceginors                 | coresign, cosigner
+aceinorv                 | corvinae, veronica
+aceilost                 | cosalite, societal
+cemorstu                 | costumer, customer
+ceorstuy                 | cosurety, courtesy
+cginorsu                 | coursing, scouring
+acmnortu                 | courtman, turcoman
+chilotuy                 | couthily, touchily
+aceflrtu                 | crateful, fulcrate
+aceginrs                 | creasing, scirenga
+ceiprstu                 | crepitus, piecrust
+ceilnors                 | cresolin, licensor
+cefilmru                 | crimeful, merciful
+acegimpr                 | crimpage, pergamic
+acdeinrt                 | crinated, dicentra
+cilopruy                 | croupily, polyuric
+ceiknrsu                 | cruisken, unsicker
+cilrstuy                 | crustily, rusticly
+acegilnu                 | cuailnge, glaucine
+abceintu                 | cubanite, incubate
+acilnruy                 | culinary, uranylic
+acilrtuv                 | cultivar, curvital
+cdeinopu                 | cupidone, uncopied
+acinortu                 | curation, nocturia
+acdinory                 | cynaroid, dicaryon
+acioprty                 | cyrtopia, poticary
+chilopty                 | cytophil, phycitol
+ademortw                 | damewort, wardmote
+adenortw                 | danewort, teardown
+abderstu                 | daubster, subtread
+adeiklnw                 | dawnlike, wandlike
+cdeiorst                 | decorist, sectroid
+deilnosu                 | delusion, unsoiled
+adeilmno                 | demonial, melanoid
+dehimnos                 | demonish, hedonism
+dehilops                 | depolish, polished
+adeilprv                 | deprival, prevalid
+adenprtu                 | depurant, unparted
+acdeimrt                 | dermatic, timecard
+acdeilty                 | diacetyl, lyctidae
+adehiopt                 | diaphote, hepatoid
+adeilrty                 | dielytra, tileyard
+deimorsu                 | dimerous, soredium
+adiloprt                 | dioptral, tripodal
+adeilpru                 | dipleura, epidural
+adeilprt                 | dipteral, tripedal
+deioprst                 | dipteros, portside
+cdeilrty                 | directly, tridecyl
+acdeinst                 | disenact, distance
+adeilpst                 | dispetal, pedalist
+dimoprsu                 | disporum, misproud
+acdghotw                 | dogwatch, watchdog
+adelmnos                 | dolesman, lodesman
+adeimnot                 | dominate, nematoid
+adimnost                 | donatism, saintdom
+acdmnory                 | dormancy, mordancy
+abdenorw                 | downbear, rawboned
+adeknotw                 | downtake, takedown
+acdinors                 | draconis, sardonic
+adefilrw                 | drawfile, lifeward
+adoprstw                 | drawstop, postward
+adehimrs                 | dreamish, semihard
+adelmnsu                 | dulseman, unalmsed
+deilstuy                 | dysluite, sedulity
+aehilprs                 | earlship, pearlish
+elorstuy                 | elytrous, urostyle
+bdeimory                 | embryoid, reimbody
+acehimpt                 | empathic, emphatic
+aeilmopr                 | emporial, proemial
+eilmnosu                 | emulsion, solenium
+acenorty                 | enactory, octenary
+acdenors                 | endosarc, secondar
+dehnorsu                 | enshroud, unshored
+aehlnoty                 | entohyal, ethanoyl
+ceilopty                 | epicotyl, lipocyte
+aeimopst                 | epistoma, metopias
+ceiloptu                 | epulotic, poultice
+ceinortu                 | eruction, neurotic
+einoprtu                 | eruption, unitrope
+egimnruy                 | eryngium, gynerium
+acenrstu                 | etruscan, recusant
+egilmosu                 | eulogism, uglisome
+ceioprtu                 | eutropic, outprice
+aeflnors                 | farnesol, forensal
+adfhlost                 | fasthold, holdfast
+aeflnopt                 | felapton, pantofle
+adefilmn                 | fieldman, inflamed
+aefgirtu                 | figurate, fruitage
+efgilpru                 | fireplug, gripeful
+dfhinops                 | fishpond, pondfish
+aefilstw                 | flatwise, saltwife
+aefilort                 | floriate, foralite
+acfilnor                 | florican, fornical
+adfilnor                 | floridan, florinda
+fgilnotu                 | flouting, outfling
+aeflortu                 | fluorate, outflare
+efilnoru                 | fluorine, neurofil
+fghilnsu                 | flushing, lungfish
+cefinors                 | forensic, forinsec
+efginors                 | foresign, foresing
+aefgmnor                 | forgeman, formagen
+aeflmoru                 | formulae, fumarole
+abdeflnu                 | fundable, unfabled
+efnorstu                 | furstone, unforest
+cefirstu                 | fusteric, scutifer
+aeglortw                 | galewort, waterlog
+acegilst                 | gelastic, gestical
+eginorty                 | genitory, ortygine
+aegilnor                 | geraniol, regional
+aeglmnry                 | germanly, germanyl
+ceginort                 | gerontic, negrotic
+aegilors                 | girasole, seraglio
+aegilrst                 | glaister, regalist
+acegilmu                 | glucemia, mucilage
+aegiklot                 | goatlike, togalike
+adeginrt                 | gradient, treading
+aceghnru                 | gunreach, uncharge
+acgimnsy                 | gymnasic, syngamic
+acehilor                 | halicore, heroical
+adhknorw                 | handwork, workhand
+aghinprs                 | harpings, phrasing
+aehinrtu                 | haurient, huterian
+adeghlno                 | headlong, longhead
+adeghinr                 | headring, ringhead
+aeghinrt                 | hearting, ingather
+aeghnopt                 | heptagon, pathogen
+cehilpty                 | heptylic, phyletic
+acdehilr                 | heraclid, heraldic
+adehinor                 | herodian, ironhead
+aehilnru                 | herulian, inhauler
+ahilnost                 | histonal, toshnail
+aehimnor                 | homarine, homerian
+aeghorst                 | hostager, shortage
+eghinorv                 | hovering, overnigh
+achimnsu                 | humanics, inasmuch
+dehiorty                 | hydriote, thyreoid
+ahimopsy                 | hyposmia, phymosia
+aehirsty                 | hysteria, sheriyat
+acdeiors                 | idocrase, radicose
+eimoprst                 | imposter, tripsome
+eimoprsu                 | imposure, premious
+ceinoprt                 | inceptor, pretonic
+acehinot                 | inchoate, noachite
+degilnru                 | indulger, ungirdle
+adeinrtu                 | indurate, turdinae
+eimnorsu                 | inermous, monsieur
+aefilmnr                 | inflamer, rifleman
+afilnstu                 | inflatus, stainful
+ghinortw                 | ingrowth, throwing
+aeilnrty                 | interlay, lyterian
+acdilnor                 | ironclad, rolandic
+aeioprst                 | isoptera, septoria
+aijmnops                 | japonism, pajonism
+aeiklmst                 | kemalist, mastlike
+abilmors                 | laborism, mislabor
+abilorst                 | laborist, strobila
+acelostu                 | lacteous, osculate
+aelnopst                 | lapstone, pleonast
+acehlnru                 | launcher, relaunch
+aehilrsv                 | lavisher, shrieval
+egilnory                 | legionry, yeorling
+ceilnost                 | lentisco, telsonic
+achilnos                 | lichanos, nicholas
+ailoprsu                 | liparous, pliosaur
+aeghilrt                 | litharge, thirlage
+ciklopst                 | lockspit, lopstick
+aeilmnot                 | lomatine, tolamine
+egilnorv                 | lovering, overling
+cgiklnsu                 | lungsick, suckling
+gilnrstu                 | lustring, rustling
+aehlnrtu                 | lutheran, unhalter
+adelnrsy                 | lysander, synedral
+acimnort                 | macrotin, romantic
+acelmosu                 | maculose, somacule
+adegmnot                 | magnetod, megadont
+aeilmops                 | malpoise, semiopal
+adelmops                 | malposed, plasmode
+abgilmnr                 | marbling, rambling
+adeimort                 | mareotid, mediator
+aimnorst                 | maronist, romanist
+aelmorsy                 | marysole, ramosely
+aeimnost                 | masonite, misatone
+aelmrsty                 | masterly, myrtales
+acehimst                 | mastiche, misteach
+deilmost                 | melodist, modelist
+eilmnost                 | melonist, telonism
+ehimopst                 | mephisto, pithsome
+aehmoprt                 | metaphor, trophema
+cehilmty                 | methylic, thymelic
+dimorsty                 | midstory, modistry
+eilmopst                 | milepost, polemist
+aimnorty                 | minatory, romanity
+aeilmnrv                 | minerval, verminal
+eilmntuy                 | minutely, untimely
+aegimnst                 | misagent, steaming
+adimnrsy                 | misandry, myrsinad
+adeilmps                 | misplead, pedalism
+ademnort                 | moderant, normated
+delmosty                 | modestly, styledom
+eimorstu                 | moisture, semitour
+ailmorty                 | molarity, morality
+achmnory                 | monarchy, nomarchy
+bdimnoru                 | moribund, unmorbid
+demnostu                 | mudstone, unmodest
+dhimnosu                 | muishond, unmodish
+aceimnsu                 | muscinae, semuncia
+ahilnops                 | nailshop, siphonal
+aeilntvy                 | natively, venality
+adeilntu                 | nidulate, untailed
+cfimnoru                 | nuciform, unciform
+cdeilnou                 | nucleoid, uncoiled
+eimnrstu                 | numerist, terminus
+ceinrsty                 | nycteris, stycerin
+acinrtuy                 | nycturia, tunicary
+abeinost                 | obeisant, sabotine
+aelorstu                 | oestrual, rosulate
+abilmnou                 | olibanum, umbonial
+aeilnotv                 | olivetan, velation
+ailmnopy                 | olympian, polymnia
+adeilopt                 | opdalite, petaloid
+abilnoru                 | orbulina, unilobar
+achilopr                 | orphical, rhopalic
+achmortu                 | outcharm, outmarch
+acdenotu                 | outdance, uncoated
+deilnotu                 | outlined, untoiled
+aehkostu                 | outshake, shakeout
+aehopstu                 | outshape, taphouse
+ehinostu                 | outshine, tinhouse
+deilostu                 | outslide, solitude
+denopstu                 | outspend, unposted
+ademnorv                 | overdamn, ravendom
+deorstuv                 | overdust, overstud
+efilmorv                 | overfilm, veliform
+aelorstv                 | overlast, oversalt
+ceikoprv                 | overpick, pickover
+eiloprsv                 | overslip, slipover
+aeklorvw                 | overwalk, walkover
+aeginpru                 | pagurine, perugian
+adelnpry                 | panderly, repandly
+acehiprs                 | parchesi, seraphic
+adenoprs                 | parsoned, spadrone
+acinoprs                 | parsonic, scoparin
+aeginprt                 | partigen, tapering
+acehprty                 | patchery, petchary
+acdeinpt                 | pedantic, pentacid
+aegilops                 | pelasgoi, spoilage
+ceilnpry                 | pencilry, princely
+aehinprt                 | perianth, triphane
+eiloprsu                 | perilous, uropsile
+aeilmpst                 | petalism, septimal
+ceiloprt                 | petrolic, plerotic
+aeloprst                 | petrosal, polestar
+adhimops                 | phasmoid, shopmaid
+cehilnop                 | phenolic, pinochle
+cehinprs                 | phrenics, pinscher
+aeinprst                 | pinaster, pristane
+aelprsty                 | plastery, psaltery
+aeglopry                 | playgoer, pylagore
+aehloprt                 | plethora, traphole
+aciloprt                 | plicator, tropical
+eghilprt                 | plighter, replight
+eilnoprt                 | pointrel, terpinol
+ehiloprs                 | polisher, repolish
+acdilopy                 | polyacid, polyadic
+gilnopsy                 | posingly, spongily
+acilopst                 | postical, slipcoat
+eiklopst                 | postlike, spotlike
+aekmoprt                 | potmaker, topmaker
+eflopruw                 | powerful, upflower
+aehmnpru                 | prehuman, unhamper
+cekoprst                 | prestock, sprocket
+ehinprsu                 | punisher, repunish
+aimnpstu                 | putanism, sumpitan
+dilprtuy                 | putridly, turpidly
+eilnpruy                 | pyruline, unripely
+aeimnqru                 | queriman, ramequin
+aegiortv                 | ravigote, rogative
+aelorstw                 | restowal, sealwort
+aceknpru                 | reunpack, unpacker
+dehlopru                 | reuphold, upholder
+efilprtu                 | reuplift, uplifter
+ailnortu                 | rotulian, uranotil
+ginorstu                 | rousting, stouring
+ailorsty                 | royalist, solitary
+einorstu                 | rutinose, tursenoi
+abeilstu                 | sabulite, suitable
+aehimprs                 | samphire, seraphim
+abcelmrs                 | scambler, scramble
+acginprs                 | scarping, scraping
+acilprsu                 | scripula, spicular
+acehimrs                 | semiarch, smachrie
+denorsuw                 | sewround, undersow
+afghinst                 | shafting, tangfish
+adhiprsw                 | shipward, wardship
+hikoprsw                 | shipwork, workship
+himoprsw                 | shipworm, wormship
+ghinostu                 | shouting, southing
+ceiklrsy                 | sickerly, slickery
+adeiklsw                 | sidewalk, walkside
+abegilns                 | signable, singable
+eiklnrst                 | sklinter, strinkle
+acilnosv                 | slavonic, volscian
+imnorsty                 | smyrniot, tyronism
+abelorst                 | sortable, storable
+aeilorst                 | soterial, striolae
+aeglnprs                 | spangler, sprangle
+agilnpst                 | spatling, stapling
+egilnprs                 | sperling, springle
+deilnprs                 | spindler, splinder
+eilmnpsu                 | splenium, unsimple
+eiprstuv                 | spurtive, upstrive
+ainorstu                 | staurion, sutorian
+ceiklrst                 | stickler, strickle
+egnorstu                 | strounge, sturgeon
+acilnosu                 | sualocin, unsocial
+aeflstuw                 | sweatful, wasteful
+aeilstwy                 | sweatily, tileways
+aeilmnrt                 | terminal, tramline
+acehkrtw                 | thwacker, whatreck
+eikmortw                 | timework, worktime
+adhiosty                 | toadyish, todayish
+cghinotu                 | touching, ungothic
+eilmrsty                 | trimesyl, tylerism
+bdeinrtu                 | turbined, underbit
+egimostw                 | twigsome, wegotism
+eiklnrtw                 | twinkler, wrinklet
+einorsty                 | tyrosine, tyrsenoi
+adeimnru                 | unadmire, underaim
+adeilnsu                 | unaisled, unsailed
+bdeilnou                 | unboiled, unilobed
+acdeknsu                 | uncasked, unsacked
+cdehknou                 | unchoked, unhocked
+cdeknoru                 | uncorked, unrocked
+adenpruy                 | underpay, unprayed
+denortuw                 | undertow, untrowed
+cdeinrtu                 | undirect, untriced
+adefmnru                 | unfarmed, unframed
+adehlntu                 | unhalted, unlathed
+adelnoru                 | unloader, urodelan
+adehmnsu                 | unmashed, unshamed
+adeinpru                 | unpaired, unrepaid
+acdenrsu                 | unsacred, unscared
+bemnorsu                 | unsomber, unsombre
+adenstuy                 | unstayed, unsteady
+acilortv                 | victrola, vortical
+eiorstuv                 | virtuose, vitreous
+fhlortuw                 | worthful, wrothful
+hilortwy                 | worthily, wrothily
+eilnotxy                 | xylitone, xylonite
+abehilors                | abolisher, reabolish
+achioprst                | actorship, strophaic
+aceimnosu                | acuminose, mniaceous
+adeimnopt                | ademption, tampioned
+adeimnstv                | adventism, vedantism
+abeflortw                | afterblow, batfowler
+aefgnrstu                | afterguns, transfuge
+acelnorty                | alectryon, tolerancy
+aceilnoru                | aleuronic, urceolina
+acdegilno                | algedonic, genocidal
+aghilmort                | algorithm, logarithm
+aegilorsu                | aligerous, glaireous
+achimnopy                | amphicyon, hypomanic
+aeglmnorw                | angleworm, lawmonger
+adehinryz                | anhydrize, hydrazine
+aemnorstu                | anoestrum, neuromast
+achimnors                | anorchism, harmonics
+achinoprt                | anthropic, rhapontic
+aeimnrstu                | antiserum, misaunter
+acdehimor                | archidome, chromidae
+aegnorstu                | argentous, neotragus
+aegiklrsu                | arguslike, sugarlike
+aceinopst                | aspection, stenopaic
+acegimnot                | atmogenic, geomantic
+abcgiknsw                | backswing, swingback
+abceimrtu                | bacterium, cumbraite
+abceilstu                | baculites, bisulcate
+abdelmnoy                | baldmoney, molybdena
+abehnopty                | batyphone, hypnobate
+bceimnors                | becrimson, scombrine
+bcehknorw                | benchwork, workbench
+abceilnru                | binuclear, incurable
+bdeinorst                | birdstone, stonebird
+abceilmst                | blastemic, cembalist
+abdeglnor                | boglander, longbeard
+abdeilnor                | bolderian, ordinable
+abdeiknrw                | breakwind, windbreak
+abeginrst                | breasting, brigantes
+abeinprst                | breastpin, stepbairn
+abeimnort                | brominate, tribonema
+abilnortw                | browntail, wrainbolt
+abdhlnrsu                | brushland, shrubland
+behiklrsu                | brushlike, shrublike
+abdelnoru                | burdalone, unlabored
+acehinopr                | canephroi, parochine
+acgiklnry                | carkingly, rackingly
+acinorsty                | carnosity, crayonist
+acdeioprs                | carpiodes, scorpidae
+aceiloprt                | carpolite, petricola
+acemorstu                | castoreum, outscream
+acehinpst                | cathepsin, stephanic
+aceinortu                | cautioner, cointreau
+acehnostu                | ceanothus, oecanthus
+aceilnors                | censorial, sarcoline
+acdehilop                | cephaloid, pholcidae
+aceloprst                | ceroplast, precostal
+acdehiort                | charioted, trochidae
+acdehilno                | chelodina, hedonical
+acehmotxy                | chemotaxy, myxotheca
+achimnort                | chiromant, chromatin
+cehioprty                | chirotype, hypocrite
+acehilmor                | chloremia, homerical
+cdehinort                | chondrite, threnodic
+acdhimort                | chromatid, dichromat
+cdhioprsy                | chrysopid, dysphoric
+cdeinorsu                | cinderous, decursion
+aceilnrst                | cisternal, larcenist
+acilmorst                | clamorist, crotalism
+acehlorst                | clathrose, searcloth
+acdeimnot                | comediant, metaconid
+acilmnopt                | complaint, compliant
+aceglnosu                | consulage, glucosane
+aclnorsuy                | consulary, cynosural
+celnorstu                | consulter, reconsult
+acilmoqtu                | coquitlam, quamoclit
+acdenortu                | cornuated, undercoat
+aceimnort                | cremation, manticore
+acdeilpru                | crepidula, pedicular
+ceilmnotu                | ctenolium, monticule
+chimnopsy                | cyphonism, symphonic
+adefglnru                | dangerful, gardenful
+adeinrsuy                | dasyurine, dysneuria
+adeghinrs                | degarnish, garnished
+adeilmnst                | dentalism, dismantle
+acdeilort                | dialector, lacertoid
+acdeilost                | dislocate, lactoside
+adeilprsy                | displayer, redisplay
+adeginorz                | dragonize, organized
+cdeknostu                | duckstone, unstocked
+cdeiklnpu                | dunpickle, unpickled
+aeghilnrt                | earthling, heartling
+abdenostu                | eastbound, unboasted
+adeghiopr                | eidograph, ideograph
+aeilmnopt                | emptional, palmitone
+aeilmnotu                | emulation, laumonite
+aceimnrst                | encratism, miscreant
+abdelnruy                | endurably, undryable
+aceghinpr                | engraphic, preaching
+aceilmnot                | entomical, melanotic
+eimnoprtu                | entropium, importune
+abeilmpru                | epilabrum, impuberal
+aeiloprty                | epilatory, petiolary
+aeimoprst                | epistroma, peristoma
+aeinoprtu                | epuration, eupatorin
+acehirstu                | erithacus, eucharist
+aehilnops                | esiphonal, phaseolin
+adeilorst                | estradiol, idolaster
+adehilmot                | ethmoidal, oldhamite
+aceilpstu                | euplastic, spiculate
+acelntuxy                | exultancy, unexactly
+aefhinors                | fashioner, refashion
+adefilmsu                | feudalism, sulfamide
+aeflmortu                | feulamort, formulate
+efklortuw                | flukewort, flutework
+aefilortu                | foliature, toluifera
+abefilnru                | funebrial, unfriable
+aegilnors                | gasoliner, seignoral
+acegilnru                | genicular, neuralgic
+acegimnrs                | germanics, screaming
+aefgimnry                | germanify, remagnify
+aegimnrst                | germanist, streaming
+egimnorst                | gerontism, monergist
+adegilnor                | girandole, negroidal
+cegilnosy                | glycosine, lysogenic
+acgilnost                | gnostical, nostalgic
+aeghmnopr                | gomphrena, nephogram
+aeginorst                | goniaster, orangeist
+agimnorsu                | graminous, ignoramus
+adeginors                | grandiose, sargonide
+aegilnrtu                | granulite, traguline
+acgimnsty                | gymnastic, nystagmic
+aehinorst                | hairstone, hortensia
+aehilmstu                | hamulites, shulamite
+adehilstu                | hastilude, lustihead
+aehilmnot                | hematolin, maholtine
+acehimnot                | hematonic, methanoic
+aehimnost                | hematosin, thomasine
+acehimotx                | hematoxic, hexatomic
+acehimrtu                | hematuric, rheumatic
+acehimnry                | hemicrany, machinery
+adehilrst                | heraldist, tehsildar
+adehilnor                | hodiernal, rhodaline
+acehilopt                | hopcalite, phacolite
+aehilorst                | horsetail, isotheral
+aehmorsuw                | housewarm, warmhouse
+dehinostu                | hudsonite, unhoisted
+abdehnrsu                | husbander, shabunder
+cehinopty                | hypnoetic, neophytic
+himnopsty                | hypnotism, pythonism
+ehinoptyz                | hypnotize, pythonize
+aeimprstu                | impasture, septarium
+aeilmnprt                | implanter, reimplant
+acinoprsu                | inocarpus, unprosaic
+abeilnrsu                | insurable, sublinear
+aeilnprty                | interplay, painterly
+cdeinortu                | introduce, reduction
+ceilnoruv                | involucre, volucrine
+aeijklnsu                | januslike, seljukian
+cdeiklnsu                | klendusic, unsickled
+aceilnorz                | laconizer, locarnize
+ailmprsty                | lampistry, palmistry
+adlmnorst                | landstorm, transmold
+acelnorsu                | larcenous, senocular
+efilmoprt                | leptiform, peltiform
+aeghlrstu                | lethargus, slaughter
+adeilnort                | lorandite, rodential
+aehlmnost                | malhonest, mashelton
+ahimnoprs                | manorship, orphanism
+aeflmrstu                | masterful, streamful
+agilmnopy                | maypoling, pygmalion
+ademnorsu                | meandrous, roundseam
+aeilmnort                | meliorant, mentorial
+aelmnrstu                | menstrual, ulsterman
+ceilmopry                | micropyle, polymeric
+aemnorsty                | monastery, oysterman
+aceimnrsu                | muscarine, sucramine
+acdemorty                | myctodera, radectomy
+eimnorsty                | myristone, smyrniote
+aeilmrsty                | mysterial, salimetry
+acimnorst                | narcotism, romancist
+aceinortz                | narcotize, zirconate
+ailmnorty                | normality, trionymal
+acelnortu                | nucleator, recountal
+abcnorstu                | obscurant, subcantor
+acilorstu                | ocularist, suctorial
+aceilnopr                | oliprance, porcelain
+aeginoprt                | operating, pignorate
+aceiorstz                | ostracize, socratize
+aeilnortu                | outlinear, uranolite
+ginoprstu                | outspring, sprouting
+egilnortv                | overglint, revolting
+aeinoprtv                | overpaint, pronative
+aeilnoprv                | overplain, parvoline
+ehinoprsw                | ownership, shipowner
+aeilmprst                | palmister, prelatism
+adenoprsu                | panderous, repandous
+aceimoprs                | paroecism, premosaic
+adeilnopt                | pelidnota, planetoid
+aeilmoprs                | perisomal, semipolar
+cehiloprt                | phloretic, plethoric
+cehinopst                | phonetics, sphenotic
+ahinoprty                | phoniatry, thiopyran
+aehilpsty                | physalite, styphelia
+acdilmops                | plasmodic, psalmodic
+ailnopstu                | platinous, pulsation
+aeiloprst                | posterial, saprolite
+agikmnopt                | potmaking, topmaking
+adeimprst                | predatism, spermatid
+aeilnoprt                | prelation, rantipole
+eilnoprsu                | prelusion, repulsion
+acelprstu                | prescutal, scalpture
+behilprsu                | publisher, republish
+ainoprstu                | rainspout, supinator
+agilnprsy                | raspingly, sparingly
+egilnrstu                | resulting, ulstering
+aeiklrsty                | satyrlike, streakily
+aeilmnrsu                | semilunar, unrealism
+abeimnrsu                | semiurban, submarine
+abcehklos                | shockable, shoeblack
+acdeikrst                | sidetrack, trackside
+eilmnopst                | simpleton, spoilment
+cehilnpsu                | siphuncle, uncleship
+abeilorst                | sobralite, strobilae
+aeilmostz                | solmizate, zealotism
+aeimnprst                | spearmint, spermatin
+agilnrsty                | staringly, strayling
+aceilrstu                | sterculia, urticales
+dimnorstw                | stormwind, windstorm
+abeilnpsu                | subalpine, unspiable
+abeilstuv                | sublative, vestibula
+bdeilnoru                | unbroiled, underboil
+acdehklnu                | unchalked, unhackled
+deghilntu                | undelight, unlighted
+acdehnpru                | underchap, unparched
+deflnoruw                | underflow, wonderful
+demnorstu                | undermost, unstormed
+cdeiknpru                | underpick, unpricked
+deilnorsu                | undersoil, unsoldier
+aehlnrtuy                | unearthly, urethylan
+deghinrtu                | ungirthed, unrighted
+acghinpru                | ungraphic, uparching
+deimnotuv                | unmotived, unvomited
+adehnprsu                | unphrased, unsharped
+abeilnrtu                | untirable, untriable
+abeilrtvy                | verbality, veritably
+aceilntuv                | vinculate, vulcanite
+acilnostv                | viscontal, volcanist
+aceinoprty               | acetopyrin, capernoity
+adehimnors               | admonisher, rhamnoside
+acegilmort               | algometric, melotragic
+acehimoprt               | amphoteric, metaphoric
+acehimnrtu               | anthericum, narthecium
+abeilnoprs               | bipersonal, prisonable
+abeilmoprt               | bitemporal, importable
+abdelmorst               | blastoderm, dermoblast
+bdegilnoru               | bouldering, redoubling
+acehiloprt               | carpholite, proethical
+aceilmnort               | centimolar, melicraton
+aceloprsty               | ceroplasty, coreplasty
+cehinorstu               | cetorhinus, urosthenic
+aceghilnty               | cheatingly, teachingly
+cehilorsty               | chrysolite, chrysotile
+ceilmorstu               | closterium, sclerotium
+acdelmnotu               | columnated, documental
+bcdeilmnoy               | combinedly, molybdenic
+acdeilorsu               | coresidual, radiculose
+ceilnorstu               | cornulites, uncloister
+acehiprstu               | curateship, pasticheur
+acdhilorty               | dacryolith, hydrotical
+acdehinops               | deaconship, endophasic
+acdefinort               | deforciant, fornicated
+acdeilnrtu               | denticular, unarticled
+adeinoprtu               | depuration, portunidae
+adehmopsty               | desmopathy, phymatodes
+adhioprsty               | diastrophy, dystrophia
+acdehinopt               | dictaphone, endopathic
+adeimnprtu               | diparentum, unimparted
+cdeinorstu               | discounter, rediscount
+acdeilpstu               | disculpate, spiculated
+adhimnorsy               | disharmony, hydramnios
+acdehiprst               | dispatcher, redispatch
+dehilnopsu               | disulphone, unpolished
+adehlmnort               | enthraldom, motherland
+acehimnopr               | epharmonic, pinachrome
+aceiloprtx               | explicator, extropical
+acdefnortu               | fecundator, unfactored
+adeflnorsw               | flandowser, sandflower
+acefhorstu               | fratcheous, housecraft
+acegilrstu               | gesticular, scutigeral
+acgilorsuy               | glycosuria, graciously
+adeghinprs               | headspring, springhead
+adeghnorst               | headstrong, stronghead
+aehiloprst               | hospitaler, trophesial
+cehioprtxy               | hypertoxic, xerophytic
+adhioprsuy               | hyporadius, suprahyoid
+adeilopsty               | ideoplasty, stylopidae
+abegilmnpu               | impugnable, plumbagine
+aeilmnoprt               | intemporal, trampoline
+aeilnoprst               | interposal, psalterion
+cehiloprst               | lectorship, leptorchis
+egilmnorty               | longimetry, mongrelity
+aeilnprstu               | lupinaster, palustrine
+aegilmnrst               | masterling, streamling
+acilmnorty               | matrocliny, romanticly
+adegimopsu               | megapodius, pseudimago
+acghimopry               | microphagy, myographic
+adeimnorst               | mosandrite, tarsonemid
+acilmopsty               | myoplastic, polymastic
+aceinorstu               | nectarious, recusation
+aceilnopst               | neoplastic, pleonastic
+abelnorstu               | neuroblast, unsortable
+aeilmnrstu               | neutralism, trimensual
+aehinoprst               | opisthenar, spheration
+acehilnopt               | pachnolite, phonetical
+ceilnoprsu               | perculsion, preclusion
+aceilnprtu               | periculant, unprelatic
+aeilmoprst               | peristomal, prestomial
+achioprsty               | physiocrat, psychotria
+adeilmopst               | plastidome, postmedial
+acilnoprtu               | ponticular, untropical
+aegilnopst               | postgenial, spangolite
+aceinoprtu               | precaution, unoperatic
+aceilmprsu               | premusical, superclaim
+adeilnprtu               | prudential, putredinal
+efgilnrsuy               | refusingly, syringeful
+aegilnortu               | regulation, urogenital
+deimnorstu               | semirotund, unmortised
+acilmnstuy               | stimulancy, unmystical
+deghilnstu               | sunlighted, unslighted
+adehilorty               | thyreoidal, thyroideal
+ceghinorty               | thyrogenic, trichogyne
+ailnorstuy               | unroyalist, unsolitary
+acdeilnorty              | adrenolytic, declinatory
+aeghimnopsu              | amphigenous, musophagine
+acehimnorst              | anchoretism, trichomanes
+aceghimnost              | asthmogenic, mesognathic
+abcegilnost              | blastogenic, genoblastic
+abceilmorst              | blastomeric, meroblastic
+achiloprsty              | chiroplasty, polyarchist
+acdegimorty              | comitragedy, tragicomedy
+acelnoprtuy              | counterpaly, counterplay
+aceilnortuv              | countervail, involucrate
+adegilnprvy              | depravingly, pervadingly
+afilmnortuy              | fulminatory, unformality
+acegilnopty              | genotypical, ptyalogenic
+aeghmoprsuy              | hypergamous, museography
+acghimopsty              | mycophagist, phagocytism
+aghimoprsty              | myographist, pythagorism
+acdeilnortu              | radiolucent, reductional
+adehlnorstu              | southerland, southlander
+abceilmnoptu             | incomputable, uncompatible
+adilorty                 | adroitly, dilatory, idolatry
+aeginorz                 | agonizer, orangize, organize
+abimnors                 | ambrosin, barosmin, sabromin
+aeimnrsu                 | aneurism, arsenium, sumerian
+achinort                 | anorthic, anthroic, tanchoir
+aceioprt                 | aporetic, capriote, operatic
+acmorsty                 | arctomys, costmary, mascotry
+aehimrst                 | arthemis, marshite, meharist
+aeginrst                 | astringe, ganister, gantries
+acehimrt                 | athermic, marchite, rhematic
+abeilort                 | betailor, laborite, orbitale
+abeinrtu                 | braunite, urbanite, urbinate
+aceilort                 | calorite, erotical, loricate
+acdeilmo                 | cameloid, comedial, melodica
+aceimrst                 | camerist, ceramist, matrices
+acehnopr                 | canephor, chaperno, chaperon
+acinorst                 | cantoris, castorin, corsaint
+aceinopr                 | caponier, coprinae, procaine
+acdhlnor                 | chaldron, chlordan, chondral
+cdehilno                 | chelidon, chelonid, delichon
+achimnor                 | choirman, harmonic, omniarch
+ceinorsu                 | coinsure, corineus, cusinero
+aciorstu                 | cotarius, octarius, suctoria
+acimnoty                 | cymation, myatonic, onymatic
+adeinrsu                 | denarius, desaurin, unraised
+acdeiops                 | diascope, psocidae, scopidae
+adegimnr                 | dirgeman, margined, midrange
+adegilnr                 | dragline, reginald, ringlead
+acegilot                 | ectoglia, geotical, goetical
+aehinrsv                 | enravish, ravenish, vanisher
+adeilops                 | episodal, lapidose, sepaloid
+deflnoru                 | flounder, reunfold, unfolder
+afilmnor                 | formalin, informal, laniform
+aegilnst                 | galenist, genitals, stealing
+aegilnot                 | gelation, lagonite, legation
+aegimrst                 | gemarist, magister, sterigma
+aegilmnr                 | germinal, maligner, malinger
+aginorty                 | gyration, organity, ortygian
+acehinpt                 | haptenic, pantheic, pithecan
+adehikns                 | headskin, nakedish, sinkhead
+aehmnors                 | horseman, rhamnose, shoreman
+eilnrstu                 | insulter, lustrine, reinsult
+aegilnrt                 | integral, teraglin, triangle
+aeilnprt                 | interlap, repliant, triplane
+aeglnoru                 | lagunero, organule, uroglena
+aeilmnos                 | laminose, lemonias, semolina
+adeilnop                 | lapideon, palinode, pedalion
+agilnprs                 | laspring, sparling, springal
+aeilmnru                 | lemurian, malurine, rumelian
+aegilmnt                 | ligament, metaling, tegminal
+adeilmny                 | lymnaeid, maidenly, medianly
+aeimprst                 | maspiter, pastimer, primates
+aeilmnst                 | mentalis, smaltine, stileman
+agimnoru                 | mirounga, moringua, origanum
+aemnorty                 | monetary, myronate, naometry
+deilmnsu                 | muslined, unmisled, unsmiled
+aimnrstu                 | naturism, sturmian, turanism
+aelnorty                 | neolatry, ornately, tyrolean
+agimnors                 | orangism, organism, sinogram
+aeilnort                 | oriental, relation, tirolean
+aceilprt                 | particle, plicater, prelatic
+aeilnopr                 | pelorian, peronial, proalien
+adelnpru                 | pendular, underlap, uplander
+eioprsuv                 | pervious, previous, viperous
+adelnopr                 | polander, ponderal, prenodal
+aloprstu                 | postural, pulsator, sportula
+aelnprsu                 | purslane, serpulan, supernal
+deinopry                 | pyrenoid, pyridone, pyrodine
+aeilqrtu                 | quartile, requital, triequal
+aegilnrs                 | resignal, seringal, signaler
+acehnrst                 | resnatch, snatcher, stancher
+admnorsw                 | sandworm, swordman, wordsman
+acelprst                 | sceptral, scraplet, spectral
+acdinops                 | spadonic, spondaic, spondiac
+adeinrst                 | stradine, strained, tarnside
+denorstu                 | tonsured, unsorted, unstored
+abilnrtu                 | tribunal, turbinal, untribal
+adehlnsu                 | unhalsed, unlashed, unshaled
+adehnpsu                 | unhasped, unphased, unshaped
+adelnstu                 | unsalted, unslated, unstaled
+acenorstu                | acentrous, courtesan, nectarous
+adeimnost                | ademonist, demoniast, staminode
+adeilmnot                | antimodel, maldonite, monilated
+adehioprt                | aphrodite, atrophied, diaporthe
+acdeinsty                | asyndetic, cystidean, syndicate
+abceinort                | bicornate, carbonite, reboantic
+abcilnoru                | binocular, caliburno, colubrina
+achiloprt                | carpolith, politarch, trophical
+acfilmoru                | cauliform, formulaic, fumarolic
+aceilnrtu                | centurial, lucretian, ultranice
+aceilmnru                | ceruminal, melanuric, numerical
+acdeinort                | citronade, endaortic, redaction
+acdeinotu                | coadunite, education, noctuidae
+ceilnorsu                | cornelius, inclosure, reclusion
+ceioprstu                | crepitous, euproctis, uroseptic
+acegilrtu                | curtilage, cutigeral, graticule
+acdeimort                | decimator, medicator, mordicate
+deinorstu                | detrusion, tinderous, unstoried
+adeinrstu                | disnature, sturnidae, truandise
+abdelnstu                | dunstable, unblasted, unstabled
+aegilnprs                | espringal, presignal, relapsing
+aefimnort                | forminate, fremontia, taeniform
+abdeilnru                | indurable, unbrailed, unridable
+aeilnorst                | lairstone, orleanist, serotinal
+aceilrtuv                | lucrative, revictual, victualer
+aceilmnsu                | masculine, semuncial, simulance
+aeimnoprs                | mesropian, promnesia, spironema
+aeilnrstu                | neuralist, ulsterian, unrealist
+aeloprstu                | opulaster, sportulae, sporulate
+aeinorstv                | overstain, servation, versation
+aceinoprt                | preaction, precation, recaption
+acilnostu                | suctional, sulcation, unstoical
+acdeilmnu                | unclaimed, undecimal, unmedical
+acdehinort               | achondrite, ditrochean, ordanchite
+acdeimorty               | acidometry, medicatory, radiectomy
+aefilnortu               | antifouler, fluorinate, uniflorate
+acehilnort               | chlorinate, ectorhinal, tornachile
+aceilmnopr               | complainer, procnemial, recomplain
+abcdeilstu               | discutable, subdeltaic, subdialect
+adehinprsy               | dysphrenia, sphyraenid, sphyrnidae
+aegimnorsu               | germanious, gramineous, marigenous
+acimnoprty               | importancy, patronymic, pyromantic
+eiloprsuvy               | perviously, previously, viperously
+ceghinopty               | phytogenic, pythogenic, typhogenic
+abeinort                 | abrotine, baritone, obtainer, reobtain
+ailmrstu                 | altruism, muralist, traulism, ultraism
+adeinort                 | andorite, nadorite, ordinate, rodentia
+aceinrtu                 | anuretic, centauri, centuria, teucrian
+aehimpst                 | aphetism, mateship, shipmate, spithame
+aceinrst                 | canister, cestrian, cisterna, irascent
+acdeimno                 | codamine, comedian, daemonic, demoniac
+cdeimost                 | comedist, demotics, docetism, domestic
+acenortu                 | cornuate, courante, cuneator, outrance
+adeilost                 | diastole, isolated, sodalite, solidate
+adehiprs                 | diphaser, parished, raphides, sephardi
+aeilprst                 | epistlar, pilaster, plaister, priestal
+ehimorst                 | homerist, isotherm, otherism, theorism
+chinopty                 | hypnotic, phytonic, pythonic, typhonic
+aeilnrtu                 | lutrinae, retinula, rutelian, tenurial
+aemnorst                 | monaster, monstera, nearmost, storeman
+aelmnops                 | neoplasm, pleonasm, polesman, splenoma
+aginorst                 | orangist, organist, roasting, signator
+aeilnpst                 | panelist, pantelis, penalist, plastein
+acehipst                 | paschite, pastiche, pistache, scaphite
+acdenrtu                 | uncarted, uncrated, underact, untraced
+aceilorst                | alectoris, sarcolite, sclerotia, sectorial
+aceilnort                | alectrion, clarionet, crotaline, locarnite
+aceilopst                | alopecist, altiscope, epicostal, scapolite
+acehinort                | anchorite, antechoir, heatronic, hectorian
+aceinort                 | actioner, anerotic, ceration, creation, reaction
+aceilrtu                 | arculite, cutleria, lucretia, reticula, treculia
+aeinorst                 | arsonite, asterion, oestrian, rosinate, serotina
+aeimnprt                 | imperant, pairment, partimen, premiant, tripeman
+aeimnort                 | maronite, martinoe, minorate, morenita, romanite
+adenprsu                 | undersap, unparsed, unrasped, unspared, unspread
+aceinorst                | atroscine, certosina, ostracine, tinoceras, tricosane
+aceilnor                 | acrolein, arecolin, caroline, colinear, cornelia, creolian, lonicera
+
+AMOUNT OF ISOGRAMIC ANAGRAM FAMILIES: 996
